@@ -24,7 +24,7 @@ class _Counter_UIState extends State<Counter_UI> {
             children: [
               Container(
                 height: 80,
-                width: 120,
+                width: 160,
                 alignment: Alignment.center,
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.all(Radius.circular(10)),
